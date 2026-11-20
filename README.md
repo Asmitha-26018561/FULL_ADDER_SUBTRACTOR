@@ -50,6 +50,10 @@ Write the detailed procedure here
 **RTL Schematic**
 
 **Output Timing Waveform**
+<img width="1917" height="1021" alt="experiment 4 1st" src="https://github.com/user-attachments/assets/e83c4b9b-c639-4f74-840b-c406022aac5c" />
+<img width="1917" height="1017" alt="eperi 4 2nd" src="https://github.com/user-attachments/assets/d4f47c49-ba1e-4fce-a70a-fa579cbcd2f6" />
+
+
 
 **Result:**
 
